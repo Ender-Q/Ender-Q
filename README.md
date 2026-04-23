@@ -1,16 +1,48 @@
-## Hi there 👋
+Hello, I'm JX1DX1 👋
 
-<!--
-**Ender-Q/Ender-Q** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer with a strong passion for low-level systems, binary architecture, and minimalist tool design. My approach emphasizes writing code that is both efficient and readable, with a focus on delivering high-performance solutions to complex problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Professional Focus
+
+* System Internals: Deep diving into memory management and binary analysis.
+* Minimalist Tooling: Crafting CLI-first utilities to streamline workflows.
+* Architecture: Building modular frameworks with a focus on performance and stability.
+* Continuous Learning: Always exploring new ways to optimize system-level operations.
+
+---
+
+
+### 💻 Technical Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | `C++` `C#` `Python` `Assembly` |
+| **Systems** | `Windows Internals` `System Automation` `Reverse Engineering` |
+| **Workflow** | `Git` `CLI-centric` `Network Tunneling` |ng
+
+
+---
+
+📊 Dynamic Insights
+
+<p align="left">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=JX1DX1&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JX1DX1&layout=compact&theme=nord&hide_border=true" alt="Top Languages" height="180px" />
+
+</p>
+
+
+---
+
+📫 Connect with Me
+
+* Currently: Focusing on architectural efficiency and system-level utility development.
+* Mindset: “Code is like humor. When you have to explain it, it’s bad.”
+
+---
+
+Driven by logic, powered by coffee.
