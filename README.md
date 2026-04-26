@@ -41,8 +41,8 @@ I am a Software Engineer with a strong passion for low-level systems, binary arc
 📫 Connect with Me
 
 * Currently: Focusing on architectural efficiency and system-level utility development.
-* Mindset: “Code is like humor. When you have to explain it, it’s bad.”
+* Mindset: “I play Forsaken then i sleep,I play Forsaken again.”
 
 ---
 
-Driven by logic, powered by coffee.
+Round and round we go...
