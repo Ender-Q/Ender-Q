@@ -28,11 +28,8 @@ I am a Software Engineer with a strong passion for low-level systems, binary arc
 📊 Dynamic Insights
 
 <p align="left">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=JX1DX1&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JX1DX1&layout=compact&theme=nord&hide_border=true" alt="Top Languages" height="180px" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Ender-Q&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ender-Q&layout=compact&theme=nord&hide_border=true" alt="Top Languages" height="180px" />
 </p>
 
 
